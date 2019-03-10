@@ -1,0 +1,10 @@
+[DEFAULT]
+name = TestFile|str
+limit = 3000|int
+
+[DATABASE]
+enable = True|bool
+database_name = something|str
+host = localhost|str
+user = sa|str
+pwd = 123|str
