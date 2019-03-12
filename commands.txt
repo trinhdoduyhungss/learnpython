@@ -8,3 +8,10 @@ database_name = something|str
 host = localhost|str
 user = sa|str
 pwd = 123|str
+
+[DATABASE2]
+enable2 = True|bool
+database_name2 = something|str
+host2 = localhost|str
+user2 = sa|str
+pwd2 = 123|str
