@@ -43,7 +43,7 @@ with open(filename, "r") as fh:
             convertlineagain = convertline[1].split(']')
             key = convertlineagain[0]
             result[convertlineagain[0]]=dict()
-        if '=' in command[0]:
+        if '=' in command[0] and '|' in command[0]:
             command2, des = command[0].strip().split('=')
             s = des.strip().split('|')
             obj = {command2:s[0]}
