@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510b3f54-f1ce-44e4-87f5-0aca6ded8aae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cauchuyenphuongtay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datamember_cauchuyenphuongtay.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuunguoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/cuunguoi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cauchuyenphuongtay.py" beforeDir="false" afterPath="$PROJECT_DIR$/cauchuyenphuongtay.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +21,7 @@
     <SUITE FILE_PATH="coverage/learnpython$baitap2.coverage" NAME="baitap2 Coverage Results" MODIFIED="1552811863237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$insofibonacci.coverage" NAME="insofibonacci Coverage Results" MODIFIED="1552809098109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$insotien.coverage" NAME="insotien Coverage Results" MODIFIED="1552206408625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$cauchuyenphuongtay.coverage" NAME="cauchuyenphuongtay Coverage Results" MODIFIED="1552925694411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$cauchuyenphuongtay.coverage" NAME="cauchuyenphuongtay Coverage Results" MODIFIED="1552926541711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$bai1.coverage" NAME="bai1 Coverage Results" MODIFIED="1551626062844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/day02" />
     <SUITE FILE_PATH="coverage/learnpython$kytuxuathiennhieunhat.coverage" NAME="kytuxuathiennhieunhat Coverage Results" MODIFIED="1552799200122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -42,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cauchuyenphuongtay.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            <state relative-caret-position="242">
+              <caret line="52" column="221" selection-start-line="52" selection-start-column="221" selection-end-line="52" selection-end-column="221" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -316,12 +313,12 @@
       <workItem from="1552783075544" duration="14790000" />
       <workItem from="1552808705895" duration="7506000" />
       <workItem from="1552906808830" duration="3130000" />
-      <workItem from="1552911930388" duration="13729000" />
+      <workItem from="1552911930388" duration="14533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118030000" />
+    <option name="totallyTimeSpent" value="118834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -496,8 +493,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cauchuyenphuongtay.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        <state relative-caret-position="242">
+          <caret line="52" column="221" selection-start-line="52" selection-start-column="221" selection-end-line="52" selection-end-column="221" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
