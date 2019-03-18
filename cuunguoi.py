@@ -27,7 +27,7 @@ result = []
 for i in range(0,len(victims)):
     get_age.append(victims[i][1])
 sapxep2 = sorted(get_age)
-for item in sapxep:
+for item in sapxep2:
     for i in range(0, len(victims)):
         if victims[i][1] == item:
             result.append(victims[i])
