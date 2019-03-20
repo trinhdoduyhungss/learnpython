@@ -45,7 +45,7 @@ for info in done_victim:
     info_victim_xuong_truoc += info[0] +" "+info[2]+" "+str(info[1])+" tuổi, "
 
 if int(so_thuyen_da_dung) < 9:
-    truyen_part1 = 'Trong lúc tai nạn đang diễn ra, thuyền trưởng Smith đã nhanh chóng sắp xếp và phân loại hành khách, ông đã chọn ra được %s người xuống dùng %s thuyền cứu hộ chèo ra xa con tàu đang dần đắm chìm xuống lòng đại dương lạnh lẽo, bao gồm những người %s họ thật may mắn khi được ông trao cơ hội thoát đại nạn. Nhưng thuyền trưởng Smith vẫn còn phải giải quyết %s còn lại trên boong.'%(so_nguoi_xuong_trc, so_thuyen_da_dung,info_victim_xuong_truoc, so_nguoi_o_lai)
+    truyen_part1 = 'Trong lúc tai nạn đang diễn ra, thuyền trưởng Smith đã nhanh chóng sắp xếp và phân loại hành khách, ông đã chọn ra được %s người xuống dùng %s thuyền cứu hộ chèo ra xa con tàu đang dần đắm chìm xuống lòng đại dương lạnh lẽo, bao gồm những người %s họ thật may mắn khi được ông trao cơ hội thoát đại nạn. Nhưng thuyền trưởng Smith vẫn còn phải giải quyết %s người còn lại trên boong.'%(so_nguoi_xuong_trc, so_thuyen_da_dung,info_victim_xuong_truoc, so_nguoi_o_lai)
     print(truyen_part1)
     for i in range(so_thuyen_con_lai*3):
         v = random.choice(sapxep_victims)
