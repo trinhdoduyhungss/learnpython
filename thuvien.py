@@ -43,6 +43,7 @@ def get_number_of_character(str_file_path):
     '''
     return len(read(str_file_path))
 
+
 def erase(str_file_path):
     '''
     Delete content file

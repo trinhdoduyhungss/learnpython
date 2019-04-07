@@ -1,5 +1,4 @@
 import thuvien
-
 # Bai tap 1:
 str_path = 'config.txt'
 print(thuvien.read(str_path))
