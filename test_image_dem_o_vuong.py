@@ -20,4 +20,4 @@ for i in range(len(x2)):
            count_trang += 1
 
 print('Số ô màu đỏ : ',(count_do1+count_do1/4+count_do2)/4 +1) #2 dòng một ô, mỗi ô = 4 lần 90
-print('số ô mày trắng :', (count_trang+count_trang/4)/4)
+print('số ô mày trắng :', (count_trang+count_trang/4)/4 - 2)
