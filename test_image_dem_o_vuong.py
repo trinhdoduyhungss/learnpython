@@ -18,6 +18,6 @@ for i in range(len(x2)):
 so_o_do = (count_do1+count_do1/4+count_do2)/4 + 1
 print('Số ô màu đỏ : ', so_o_do) #2 dòng một ô, mỗi ô = 4 lần 90
 if (count_do2 >= 1):
-    print('số ô mày trắng :', (len(x2) * len(x2)) / 4 - so_o_do - count_do2/4 + (so_o_do-(count_do1+count_do1/4)/4))
+    print('số ô mày trắng :', (len(x2) * len(x2)) / 4 - so_o_do - count_do2/4 + (so_o_do-(count_do1+count_do1/4)/4)) # lazy code ~v~ đó, chỉ đúng 1 trg hợp thôi
 else:
     print('số ô mày trắng :', (len(x2) * len(x2)) / 4 - so_o_do + 1)
