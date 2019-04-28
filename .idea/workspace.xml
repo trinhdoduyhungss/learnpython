@@ -2,8 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="510b3f54-f1ce-44e4-87f5-0aca6ded8aae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/basic/baitap1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/baitap1_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/baitap2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/baitap3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/bieuthucchinhquy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/cauchuyenphuongtay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/commands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/cuunguoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/data.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/data_doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/datamember_cauchuyenphuongtay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/demovuongdo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/hello2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/insofibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/insotien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/kytuxuathiennhieunhat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/matkhaumanh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/ovuong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/ovuong2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/rest_api_nhan_dien_hinh_anh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/sogasotho.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/test_image_dem_o_vuong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/test_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/testthuvien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/thuvien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/tuongtacfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matran/test_matran_maxpool_with_convolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matran/test_matran_maxpool_without_convolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xulydaluong/chuacodaluong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xulydaluong/codaluong.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_image_dem_o_vuong.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_image_dem_o_vuong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap1_oop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bieuthucchinhquy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cauchuyenphuongtay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cuunguoi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_doc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datamember_cauchuyenphuongtay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insofibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insotien.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kytuxuathiennhieunhat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matkhaumanh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ovuong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ovuong2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api_nhan_dien_hinh_anh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sogasotho.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_image_dem_o_vuong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testthuvien.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuvien.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuongtacfile.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,100 +72,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/learnpython$baitap3.coverage" NAME="baitap3 Coverage Results" MODIFIED="1552066859596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$cuunguoi.coverage" NAME="cuunguoi Coverage Results" MODIFIED="1552916387448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$tuongtacfile.coverage" NAME="tuongtacfile Coverage Results" MODIFIED="1552813986788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$test_matran_maxpool_with_convolution.coverage" NAME="test_matran_maxpool_with_convolution Coverage Results" MODIFIED="1556463362363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matran" />
     <SUITE FILE_PATH="coverage/learnpython$bieuthucchinhquy.coverage" NAME="bieuthucchinhquy Coverage Results" MODIFIED="1554021621748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$sogasotho.coverage" NAME="sogasotho Coverage Results" MODIFIED="1552814875132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$test_image_dem_o_vuong.coverage" NAME="test_image_dem_o_vuong Coverage Results" MODIFIED="1554629676851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$testthuvien.coverage" NAME="testthuvien Coverage Results" MODIFIED="1552698483011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$set_main.coverage" NAME="set_main Coverage Results" MODIFIED="1552063115154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/day02" />
-    <SUITE FILE_PATH="coverage/learnpython$rest_api_nhan_dien_hinh_anh.coverage" NAME="rest_api_nhan_dien_hinh_anh Coverage Results" MODIFIED="1553517608533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$matkhaumanh.coverage" NAME="matkhaumanh Coverage Results" MODIFIED="1554023894908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$hello2.coverage" NAME="hello2 Coverage Results" MODIFIED="1551626540532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$baitap2.coverage" NAME="baitap2 Coverage Results" MODIFIED="1552811863237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$insofibonacci.coverage" NAME="insofibonacci Coverage Results" MODIFIED="1552809098109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$demovuongdo2.coverage" NAME="demovuongdo2 Coverage Results" MODIFIED="1555746039887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$insotien.coverage" NAME="insotien Coverage Results" MODIFIED="1552206408625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$chuacodaluong.coverage" NAME="chuacodaluong Coverage Results" MODIFIED="1555832924600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xulydaluong" />
     <SUITE FILE_PATH="coverage/learnpython$testrestfulapi.coverage" NAME="testrestfulapi Coverage Results" MODIFIED="1553093645264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$bai1.coverage" NAME="bai1 Coverage Results" MODIFIED="1551626062844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/day02" />
+    <SUITE FILE_PATH="coverage/learnpython$test_mysql.coverage" NAME="test_mysql Coverage Results" MODIFIED="1555750582516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$kytuxuathiennhieunhat.coverage" NAME="kytuxuathiennhieunhat Coverage Results" MODIFIED="1553685466167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$baitap3.coverage" NAME="baitap3 Coverage Results" MODIFIED="1552066859596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$cuunguoi.coverage" NAME="cuunguoi Coverage Results" MODIFIED="1552916387448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$tuongtacfile.coverage" NAME="tuongtacfile Coverage Results" MODIFIED="1552813986788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$sogasotho.coverage" NAME="sogasotho Coverage Results" MODIFIED="1552814875132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$test_image_dem_o_vuong.coverage" NAME="test_image_dem_o_vuong Coverage Results" MODIFIED="1556423107722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/learnpython$testthuvien.coverage" NAME="testthuvien Coverage Results" MODIFIED="1552698483011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$rest_api_nhan_dien_hinh_anh.coverage" NAME="rest_api_nhan_dien_hinh_anh Coverage Results" MODIFIED="1553517608533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$codaluong.coverage" NAME="codaluong Coverage Results" MODIFIED="1555833171343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xulydaluong" />
+    <SUITE FILE_PATH="coverage/learnpython$test_matran_maxpool_without_convolution.coverage" NAME="test_matran_maxpool_without_convolution Coverage Results" MODIFIED="1556431626973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matran" />
+    <SUITE FILE_PATH="coverage/learnpython$insofibonacci.coverage" NAME="insofibonacci Coverage Results" MODIFIED="1552809098109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$baitap1_oop.coverage" NAME="baitap1_oop Coverage Results" MODIFIED="1554020052799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learnpython$cauchuyenphuongtay.coverage" NAME="cauchuyenphuongtay Coverage Results" MODIFIED="1553093634639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$bai1.coverage" NAME="bai1 Coverage Results" MODIFIED="1551626062844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/day02" />
     <SUITE FILE_PATH="coverage/learnpython$oop.coverage" NAME="oop Coverage Results" MODIFIED="1553934378200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learnpython$kytuxuathiennhieunhat.coverage" NAME="kytuxuathiennhieunhat Coverage Results" MODIFIED="1553685466167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnpython$baitap1.coverage" NAME="baitap1 Coverage Results" MODIFIED="1556421918886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_image_dem_o_vuong.py">
+        <entry file="file://$PROJECT_DIR$/matran/test_matran_maxpool_without_convolution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="160" selection-start-line="20" selection-start-column="160" selection-end-line="20" selection-end-column="160" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testthuvien.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="4" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thuvien.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tuongtacfile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/basic/testthuvien.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cauchuyenphuongtay.py">
+        <entry file="file://$PROJECT_DIR$/matran/test_matran_maxpool_with_convolution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="47" column="382" selection-start-line="47" selection-start-column="382" selection-end-line="47" selection-end-column="382" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/hello.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" column="30" selection-start-line="5" selection-end-line="5" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/hello2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="27" column="18" selection-start-line="27" selection-end-line="27" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -156,7 +171,14 @@
         <option value="$PROJECT_DIR$/baitap1_oop.py" />
         <option value="$PROJECT_DIR$/bieuthucchinhquy.py" />
         <option value="$PROJECT_DIR$/matkhaumanh.py" />
+        <option value="$PROJECT_DIR$/demovuongdo2.py" />
         <option value="$PROJECT_DIR$/test_image_dem_o_vuong.py" />
+        <option value="$PROJECT_DIR$/test_mysql.py" />
+        <option value="$PROJECT_DIR$/daluong.py" />
+        <option value="$PROJECT_DIR$/xulydaluong/chuacodaluong.py" />
+        <option value="$PROJECT_DIR$/xulydaluong/codaluong.py" />
+        <option value="$PROJECT_DIR$/matran/test_matran_maxpool_without_convolution.py" />
+        <option value="$PROJECT_DIR$/matran/test_matran_maxpool_with_convolution.py" />
       </list>
     </option>
   </component>
@@ -170,7 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,10 +199,16 @@
               <item name="learnpython" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnpython" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learnpython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnpython" type="462c0819:PsiDirectoryNode" />
+              <item name="matran" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,6 +216,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,8 +230,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_image_dem_o_vuong">
-    <configuration name="baitap1_oop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_matran_maxpool_with_convolution">
+    <configuration name="baitap1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,12 +239,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baitap1_oop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/baitap1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bieuthucchinhquy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="codaluong" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,56 +261,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xulydaluong" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bieuthucchinhquy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="matkhaumanh" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matkhaumanh.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xulydaluong/codaluong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,12 +283,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_image_dem_o_vuong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/test_image_dem_o_vuong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_matran_maxpool_with_convolution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matran" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matran/test_matran_maxpool_with_convolution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_matran_maxpool_without_convolution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matran" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matran/test_matran_maxpool_without_convolution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_matran_maxpool_with_convolution" />
+        <item itemvalue="Python.test_matran_maxpool_without_convolution" />
         <item itemvalue="Python.test_image_dem_o_vuong" />
-        <item itemvalue="Python.matkhaumanh" />
-        <item itemvalue="Python.bieuthucchinhquy" />
-        <item itemvalue="Python.baitap1_oop" />
-        <item itemvalue="Python.oop" />
+        <item itemvalue="Python.baitap1" />
+        <item itemvalue="Python.codaluong" />
       </list>
     </recent_temporary>
   </component>
@@ -372,17 +400,46 @@
       <workItem from="1554624489877" duration="5764000" />
       <workItem from="1554685015192" duration="4000" />
       <workItem from="1555692212641" duration="99000" />
+      <workItem from="1555728254934" duration="190000" />
+      <workItem from="1555745101207" duration="3623000" />
+      <workItem from="1555831323710" duration="2796000" />
+      <workItem from="1556245865314" duration="104000" />
+      <workItem from="1556420970197" duration="9936000" />
+      <workItem from="1556459665960" duration="2830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149138000" />
+    <option name="totallyTimeSpent" value="168617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24832214" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34135976" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.35503355" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -403,37 +460,14 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/day02/bai1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/day02/bai2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/day02/set_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config" />
-    <entry file="file://$PROJECT_DIR$/insotien.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/insotien.py" />
     <entry file="file://$USER_HOME$/Downloads/day03_bai5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -441,137 +475,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commands.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitap1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-255" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sogasotho.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/commands.txt" />
+    <entry file="file://$PROJECT_DIR$/config.txt" />
+    <entry file="file://$PROJECT_DIR$/baitap1.py" />
+    <entry file="file://$PROJECT_DIR$/sogasotho.py" />
+    <entry file="file://$PROJECT_DIR$/hello.py" />
     <entry file="file://$PROJECT_DIR$/testrestfulapi.py" />
-    <entry file="file://$PROJECT_DIR$/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datamember_cauchuyenphuongtay.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cuunguoi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rest_api_nhan_dien_hinh_anh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="24" column="82" selection-start-line="24" selection-start-column="82" selection-end-line="24" selection-end-column="82" />
-          <folding>
-            <element signature="e#39#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kytuxuathiennhieunhat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insofibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitap3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitap2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baitap1_oop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_doc.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.py" />
+    <entry file="file://$PROJECT_DIR$/datamember_cauchuyenphuongtay.py" />
+    <entry file="file://$PROJECT_DIR$/hello2.py" />
+    <entry file="file://$PROJECT_DIR$/cuunguoi.py" />
+    <entry file="file://$PROJECT_DIR$/rest_api_nhan_dien_hinh_anh.py" />
+    <entry file="file://$PROJECT_DIR$/kytuxuathiennhieunhat.py" />
+    <entry file="file://$PROJECT_DIR$/insofibonacci.py" />
+    <entry file="file://$PROJECT_DIR$/baitap3.py" />
+    <entry file="file://$PROJECT_DIR$/baitap2.py" />
+    <entry file="file://$PROJECT_DIR$/baitap1_oop.py" />
+    <entry file="file://$PROJECT_DIR$/data_doc.txt" />
     <entry file="file://$PROJECT_DIR$/data_doc" />
-    <entry file="file://$PROJECT_DIR$/oop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bieuthucchinhquy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matkhaumanh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/oop.py" />
+    <entry file="file://$PROJECT_DIR$/bieuthucchinhquy.py" />
+    <entry file="file://$PROJECT_DIR$/matkhaumanh.py" />
     <entry file="file://$USER_HOME$/Downloads/re_main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -595,16 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_image_dem_o_vuong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="160" selection-start-line="20" selection-start-column="160" selection-end-line="20" selection-end-column="160" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/testthuvien.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -615,6 +530,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data.PNG" />
+    <entry file="file://$PROJECT_DIR$/test_image_dem_o_vuong.py" />
+    <entry file="file://$PROJECT_DIR$/demovuongdo2.py" />
+    <entry file="file://$PROJECT_DIR$/ovuong2.png" />
+    <entry file="file://$PROJECT_DIR$/ovuong.png" />
+    <entry file="file://$PROJECT_DIR$/thuvien.py" />
+    <entry file="file://$PROJECT_DIR$/tuongtacfile.py" />
+    <entry file="file://$PROJECT_DIR$/cauchuyenphuongtay.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/hello2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -625,34 +548,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testthuvien.py">
+    <entry file="file://$PROJECT_DIR$/test_mysql.py" />
+    <entry file="file://$PROJECT_DIR$/daluong.py" />
+    <entry file="file://$PROJECT_DIR$/xulydaluong/codaluong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xulydaluong/chuacodaluong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/baitap1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2542">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/restfirebase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/demovuongdo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/test_image_dem_o_vuong.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="4" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thuvien.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tuongtacfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cauchuyenphuongtay.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="47" column="382" selection-start-line="47" selection-start-column="382" selection-end-line="47" selection-end-column="382" />
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/testthuvien.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matran/test_matran_maxpool_without_convolution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matran/test_matran_maxpool_with_convolution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>

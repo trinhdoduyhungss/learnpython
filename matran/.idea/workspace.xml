@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97f0e2da-9c90-46f1-8a8a-1d95035b1f45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../basic/baitap1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/baitap1_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/baitap2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/baitap3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/bieuthucchinhquy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/cauchuyenphuongtay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/commands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/cuunguoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/data.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/data_doc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/datamember_cauchuyenphuongtay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/demovuongdo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/hello2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/insofibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/insotien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/kytuxuathiennhieunhat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/matkhaumanh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/ovuong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/ovuong2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/rest_api_nhan_dien_hinh_anh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/sogasotho.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/test_image_dem_o_vuong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/test_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/testthuvien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/thuvien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basic/tuongtacfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_matran_maxpool_without_convolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_matran_with_convolution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xulydaluong/chuacodaluong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xulydaluong/codaluong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap1_oop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bieuthucchinhquy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cauchuyenphuongtay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../commands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cuunguoi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_doc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datamember_cauchuyenphuongtay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insofibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insotien.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kytuxuathiennhieunhat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matkhaumanh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ovuong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ovuong2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest_api_nhan_dien_hinh_anh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sogasotho.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_image_dem_o_vuong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testthuvien.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuvien.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tuongtacfile.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/matran$test_matran_with_convolution.coverage" NAME="test_matran_with_convolution Coverage Results" MODIFIED="1556466077843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_matran_maxpool_without_convolution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_matran_with_convolution.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="matran" type="b2602c69:ProjectViewProjectNode" />
+              <item name="matran" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test_matran_with_convolution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="matran" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_matran_with_convolution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_matran_with_convolution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97f0e2da-9c90-46f1-8a8a-1d95035b1f45" name="Default Changelist" comment="" />
+      <created>1556464805857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556464805857</updated>
+      <workItem from="1556464815328" duration="2516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2516000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_matran_with_convolution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_matran_maxpool_without_convolution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
