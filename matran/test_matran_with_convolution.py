@@ -2,12 +2,14 @@ import numpy as np
 
 mat = np.random.randint(0, 255, (6, 6))
 kernel = np.random.randint(-2, 2, (3, 3))
-def conv_transform(matran):
-    matran_copy = matran.copy()
-    for i in range(matran.shape[0]):
-        for j in range(matran.shape[1]):
-            matran_copy[i][j] = matran[matran.shape[0]-i-1][matran.shape[1]-j-1]
-    return matran_copy
+
+def conv_transform(kernel):
+    kernel_copy = kernel.copy()
+    for i in range(kernel.shape[0]):
+        for j in range(kernel.shape[1]):
+            kernel_copy[i][j] = kernel[kernel.shape[0]-i-1][kernel.shape[1]-j-1]
+    return kernel_copy
+
 def conv(matran,kernel):
     kernel = conv_transform(kernel)
 
@@ -29,7 +31,7 @@ def conv(matran,kernel):
                 for n in range(kernel_w):
                     sum += kernel[m][n]*matran[i-h-m][j-w-n]
                 matran_conv[i][j] = sum
-    print(matran_conv)
+    print('matran_conv',matran_conv)
     return matran_conv
 
 conv(mat,kernel)
